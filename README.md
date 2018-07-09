@@ -1,4 +1,4 @@
-# Polymer Travis test App
+# Polymer Travis Test App
 
 [![Build Status](https://travis-ci.org/rajdarshanreddy/travis.svg?branch=master)](https://travis-ci.org/rajdarshanreddy/travis)
 
